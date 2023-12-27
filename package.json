@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_desde_cero",
+  "version": "0.0.1",
+  "description": "Learning nodejs from scratch",
+  "main": "index.js",
+  "repository": "https://github.com/coff3programing/Learning-Nodejs.git",
+  "author": "Santiaago Calero",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
